@@ -12,7 +12,7 @@ st.set_page_config(
 # Define custom theme
 custom_theme = {
     "primaryColor": "#7F00FF",
-    "backgroundColor": "#F5F5F5",
+    "backgroundColor": "blue",
     "secondaryBackgroundColor": "#EBEBEB",
     "textColor": "#333333",
     "font": "sans serif"
