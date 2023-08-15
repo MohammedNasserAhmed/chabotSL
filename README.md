@@ -1,6 +1,6 @@
 # chatbotSL-Streamlit App
 
-![OpenAI LangChain Streamlit App Screenshot](screenshot.png)
+![OpenAI LangChain Streamlit App Screenshot](chatbotSL_screenshot.PNG)
 
 This repository contains a Streamlit app that uses OpenAI API and LangChain to generate natural language text. The app allows users to input a prompt and generate text based on that prompt using OpenAI's GPT-3 model and LangChain's language translation and correction services.
 
