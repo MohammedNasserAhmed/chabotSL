@@ -1,9 +1,7 @@
 import streamlit as st
-from streamlit import set_config
 from langchain.llms import OpenAI
 
 st.title('🦜🔗 chabotSL App')
-#set_config(file=".streamlit/config.toml")
 
 openai_api_key = st.sidebar.text_input('OpenAI API Key')
 
